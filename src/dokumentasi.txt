@@ -1,0 +1,12 @@
+Konsep Java IO
+-sumber data (resource)
+-Stream(untuk membaca atau menulis) / aliran data, terhadap resource
+
+Resource
+-FILE
+-PATH
+
+IO Stream
+-representasi dari input data atau output data menuju resource
+-Stream untuk karakter : Reader dan Writer
+-Stream untuk bytes : InputStream dan OutputStream
